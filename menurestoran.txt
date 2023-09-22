@@ -1,0 +1,7 @@
+bakso|10000
+bakmie|12000
+bihun|11000
+bolu|3000
+basreng|1000
+bebek|30000
+ayam|15000
